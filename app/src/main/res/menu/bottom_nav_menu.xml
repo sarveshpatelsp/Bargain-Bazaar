@@ -7,7 +7,7 @@
         android:title="@string/title_home" />
 
     <item
-        android:id="@+id/navigation_myorder"
+        android:id="@+id/navigation_my_order"
         android:icon="@drawable/ic_my_order_black_24dp"
         android:title="@string/title_my_order" />
 
@@ -20,10 +20,5 @@
         android:id="@+id/navigation_account"
         android:icon="@drawable/ic_account_black_24dp"
         android:title="@string/title_account" />
-
-    <item
-        android:id="@+id/navigation_sell"
-        android:icon="@drawable/ic_sell_black_24dp"
-        android:title="@string/title_sell" />
 
 </menu>

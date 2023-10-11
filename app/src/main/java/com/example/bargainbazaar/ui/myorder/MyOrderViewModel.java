@@ -9,7 +9,7 @@ public class MyOrderViewModel extends ViewModel {
     private final MutableLiveData<String> mText;
     public MyOrderViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is dashboard fragment");
+        mText.setValue("This is Order fragment");
     }
     public LiveData<String> getText() {
         return mText;
