@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bargain Bazaar</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_my_order">My Order</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_account">Account</string>
+    <string name="title_sell">Sell</string>
+
+</resources>
